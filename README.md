@@ -1,4 +1,3 @@
-# teehorizon-cfg
 TeeHorizon server configs
 -
 Server IPs:<br>
